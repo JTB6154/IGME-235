@@ -22,6 +22,7 @@ Players will be able to learn abilities like how to use items and terrain to the
 ## Screenshots
 <img src = Screenshot-Mockup-1.png alt = "A mockup screenshot of the image used">
 <img src = Screenshot-Mockup-2.png alt = "A mockup screenshot of the image used">
+
 ## About the Developers
 I'm John Bateman a second year game design and development student at Rochester institute of technology. I specialize in C# and Unity development but am capable at other forms of development. I'm always looking to improve my design and programming skills.
 Known languages: C#, HTML, CSS, Visual Basic, Python.
